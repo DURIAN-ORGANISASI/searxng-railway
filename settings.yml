@@ -1,0 +1,19 @@
+use_default_settings: true
+
+general:
+  debug: false
+  instance_name: "SearXNG for n8n"
+
+search:
+  safe_search: 0
+  formats:
+    - html
+    - json
+
+server:
+  # The runtime value is supplied by the Railway SEARXNG_SECRET variable.
+  secret_key: "replace-this-through-SEARXNG_SECRET"
+  # Recommended for a private instance reachable only over Railway's private network.
+  limiter: false
+  image_proxy: true
+  public_instance: false
