@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="docs/brand.svg" alt="SearXNG Railway logo" width="92" height="92">
+<img src="docs/brand.svg" alt="SearXNG Railway logo" width="84" height="84">
 
-<h1>SearXNG Railway</h1>
+# SearXNG Railway
 
 <p>
     <a href="https://github.com/DURIAN-ORGANISASI/searxng-railway/actions/workflows/validate.yml"><img alt="Repository validation" src="https://img.shields.io/github/actions/workflow/status/DURIAN-ORGANISASI/searxng-railway/validate.yml?branch=main&amp;label=validation&amp;logo=githubactions&amp;logoColor=white"></a>
