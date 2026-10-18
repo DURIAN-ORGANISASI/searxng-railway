@@ -14,7 +14,8 @@
 
 <p><a href="README.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.en.md">🇬🇧 English</a></p>
 
-<p><strong>Deploy SearXNG privat di Railway dan hubungkan ke n8n melalui jaringan internal.</strong></p>
+<p><strong>Deploy SearXNG privat di Railway.</strong><br>
+Hubungkan ke n8n melalui jaringan internal.</p>
 
 <p>
     <a href="#ringkasan">Ringkasan</a> · <a href="#fitur">Fitur</a> · <a href="#arsitektur">Arsitektur</a> ·
