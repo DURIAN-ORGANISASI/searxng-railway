@@ -25,7 +25,6 @@
 
 </div>
 
-
 ![Ikhtisar SearXNG Railway](docs/hero.id.svg)
 
 <p align="center"><sub>Ilustrasi dokumentasi orisinal. Proyek ini independen dan bukan produk resmi SearXNG, Railway, atau n8n.</sub></p>
