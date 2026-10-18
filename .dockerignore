@@ -1,0 +1,3 @@
+# Only settings.yml is required as build context input.
+*
+!settings.yml
