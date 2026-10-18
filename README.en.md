@@ -14,7 +14,8 @@
 
 <p><a href="README.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.en.md">🇬🇧 English</a></p>
 
-<p><strong>Deploy private SearXNG on Railway and connect it to n8n over the internal network.</strong></p>
+<p><strong>Deploy private SearXNG on Railway.</strong><br>
+Connect it to n8n over the internal network.</p>
 
 <p>
     <a href="#overview">Overview</a> · <a href="#features">Features</a> · <a href="#architecture">Architecture</a> ·
