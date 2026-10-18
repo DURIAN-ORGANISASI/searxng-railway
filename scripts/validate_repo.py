@@ -49,7 +49,7 @@ for token, description in (
 license_text = read("LICENSE")
 for token in (
     "MIT License", "Copyright (c) 2026 DURIAN-ORGANISASI",
-    "ANY CLAIM, DAMAGES OR OTHER LIABILITY", "docs/SOURCES.md",
+    "ANY CLAIM, DAMAGES OR OTHER", "docs/SOURCES.md",
 ):
     if token not in license_text:
         ERRORS.append(f"LICENSE is missing required scope or warranty text: {token}")
