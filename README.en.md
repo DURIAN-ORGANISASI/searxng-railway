@@ -1,21 +1,28 @@
 <div align="center">
-  <img src="docs/brand.svg" alt="SearXNG Railway logo" width="92" height="92">
-  <h1>SearXNG Railway</h1>
-  <p><strong>Deploy private SearXNG on Railway and connect it to n8n over the internal network.</strong></p>
-  <p>
+
+<img src="docs/brand.svg" alt="SearXNG Railway logo" width="84" height="84">
+
+# SearXNG Railway
+
+<p>
     <a href="https://github.com/DURIAN-ORGANISASI/searxng-railway/actions/workflows/validate.yml"><img alt="Repository validation" src="https://img.shields.io/github/actions/workflow/status/DURIAN-ORGANISASI/searxng-railway/validate.yml?branch=main&amp;label=validation&amp;logo=githubactions&amp;logoColor=white"></a>
     <img alt="Installer files: MIT" src="https://img.shields.io/badge/Installer%20files-MIT-2563EB?style=flat&amp;logo=opensourceinitiative&amp;logoColor=white">
     <img alt="SearXNG upstream: AGPL-3.0" src="https://img.shields.io/badge/SearXNG%20upstream-AGPL--3.0-7C3AED?style=flat">
     <img alt="Deploy on Railway" src="https://img.shields.io/badge/Deploy-Railway-0B0D0E?style=flat&amp;logo=railway&amp;logoColor=white">
     <img alt="n8n integration" src="https://img.shields.io/badge/Integration-n8n-FF6D5A?style=flat&amp;logo=n8n&amp;logoColor=white">
   </p>
-  <p><a href="README.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.en.md">🇬🇧 English</a></p>
-  <p>
+
+<p><a href="README.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.en.md">🇬🇧 English</a></p>
+
+<p><strong>Deploy private SearXNG on Railway and connect it to n8n over the internal network.</strong></p>
+
+<p>
     <a href="#overview">Overview</a> · <a href="#features">Features</a> · <a href="#architecture">Architecture</a> ·
     <a href="#deploy-to-railway">Deploy</a> · <a href="#connect-to-n8n">n8n integration</a> ·
     <a href="#troubleshooting">Troubleshooting</a> · <a href="#security-and-privacy">Security</a> ·
     <a href="#sources-attribution-and-licensing">Sources &amp; license</a>
   </p>
+
 </div>
 
 ![SearXNG Railway overview](docs/hero.en.svg)
