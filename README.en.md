@@ -89,7 +89,7 @@ Linux/macOS:
 sh scripts/generate-secret.sh
 ```
 
-Copy the result into **SearXNG service → Variables** as **SEARXNG_SECRET**. Store it in a password manager. Never commit it or put it in README files, issues, or logs.
+Copy the result into **SearXNG service → Variables** as ```SEARXNG_SECRET```. Store it in a password manager. Never commit it or put it in README files, issues, or logs.
 
 ### 3. Deploy privately
 
